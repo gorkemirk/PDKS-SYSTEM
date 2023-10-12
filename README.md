@@ -1,16 +1,9 @@
-# new_human_resource
+Human Resources Personnel Tracking Application
+If you see the app look descriptive pdf
+Descriptive pdf
+[GorkemIrk-PDKS_Project.pdf](https://github.com/gorkemirk/PDKS-SYSTEM/files/12885097/GorkemIrk-PDKS_Project.pdf)
 
-A new Flutter project.
+Uml Diagram
+![use case uml](https://github.com/gorkemirk/PDKS-SYSTEM/assets/57559440/15503ccb-fb68-4f8e-a8c0-1f1413ce298e)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
