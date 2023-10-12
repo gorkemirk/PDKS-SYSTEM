@@ -1,6 +1,10 @@
 Human Resources Personnel Tracking Application
+
+
 If you see the app look descriptive pdf
 Descriptive pdf
+
+
 [GorkemIrk-PDKS_Project.pdf](https://github.com/gorkemirk/PDKS-SYSTEM/files/12885097/GorkemIrk-PDKS_Project.pdf)
 
 Uml Diagram
